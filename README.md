@@ -1,4 +1,4 @@
-# simple-steam-idler-replit
+66# steam boost 
 24/7 Steam ingame time idler with Replit (simple version)
 
 1. Register at https://replit.com/
